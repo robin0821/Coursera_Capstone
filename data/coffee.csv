@@ -1,0 +1,101 @@
+venue.location.formattedAddress,venue.location.lat,venue.location.lng,venue.location.postalCode,venue.location.state,venue.name
+"['247 Flinders Ln.', 'Melbourne VIC 3000', 'Australia']",-37.816763029794885,144.96606395613023,3000,VIC,Dukes Coffee Roasters
+"['359 Little Bourke St', 'Melbourne VIC 3000', 'Australia']",-37.81344531526534,144.9621371027108,3000,VIC,Brother Baba Budan
+"['493-495 Little Bourke St (at Little William St)', 'Melbourne VIC 3000', 'Australia']",-37.81459770538132,144.95834960462622,3000,VIC,Patricia Coffee Brewers
+"['20 Drewery Ln (Lonsdale St)', 'Melbourne VIC 3000', 'Australia']",-37.81085993770856,144.96418033493282,3000,VIC,Little Rogue Coffee
+"['33 Guildford Ln', 'Melbourne CBD VIC 3000', 'Australia']",-37.81134117627816,144.95981631029085,3000,VIC,Brick Lane
+"['12 Sutherland Street', 'Melbourne VIC 3000', 'Australia']",-37.81124,144.961,3000,VIC,Shortstop Coffee & Donuts
+"['440 Collins Street (Gurners Lane)', 'Melbourne VIC 3000', 'Australia']",-37.8172832199505,144.95966191358747,3000,VIC,Sunny Boy Cafe
+"['8 Exploration Ln. (at Little Lonsdale St.)', 'Melbourne VIC 3000', 'Australia']",-37.80936409198731,144.9684129481391,3000,VIC,The League of Honest Coffee
+"['19 Somerset Pl. (at Little Bourke St.)', 'Melbourne VIC 3000', 'Australia']",-37.81365768425122,144.96246148295526,3000,VIC,The Little Mule
+"['2/14 Crossley St', 'Melbourne VIC 3000', 'Australia']",-37.811391,144.971232,3000,VIC,Traveller
+"['517 Flinders Ln (At King St)', 'Melbourne VIC 3000', 'Australia']",-37.819562,144.956819,3000,VIC,The Grain Store
+"['Coromandel Pl', 'Melbourne VIC 3000', 'Australia']",-37.81317951724943,144.96900562515086,3000,VIC,Oli & Levi
+"['220 Collins St (at Swanston St)', 'Melbourne VIC 3000', 'Australia']",-37.81522,144.966235,3000,VIC,Switchboard Café
+"['35 Market St (Clarke St)', 'South Melbourne VIC 3205', 'Australia']",-37.829437667825054,144.9602651278333,3205,VIC,Dead Man Espresso
+"['8 Rankins Ln (Little Bourke St)', 'Melbourne VIC 3000', 'Australia']",-37.81374034440173,144.96213239807437,3000,VIC,Manchester Press
+"['120 Hardware St', 'Melbourne VIC 3000', 'Australia']",-37.812010258216525,144.9604973136649,3000,VIC,The Hardware Société
+"['Block Arcade, 282 Collins St (At Elizabeth St)', 'Melbourne VIC 3000', 'Australia']",-37.8158956539559,144.96463355559032,3000,VIC,Hopetoun Tea Rooms
+"['Shop 5, 495 Collins St', 'Melbourne VIC 3000', 'Australia']",-37.81815281375645,144.95763595886933,3000,VIC,Bonnie Coffee Brewers
+"['1 Exhibition Street (Flinders Street)', 'Melbourne VIC 3000', 'Australia']",-37.81600768144138,144.97224391623462,3000,VIC,Vacation Coffee
+"['46 Oxford St', 'Collingwood VIC 3066', 'Australia']",-37.805987535991115,144.98455603402957,3066,VIC,South of Johnston
+"['18 Yarra Pl (btwn York St & Coventry St)', 'South Melbourne VIC 3205', 'Australia']",-37.83128366086617,144.96035810266395,3205,VIC,St. Ali
+"['114 Berkeley St. (alt entrance on Barry St.)', 'Carlton VIC 3053', 'Australia']",-37.80287,144.95912,3053,VIC,Seven Seeds
+"['8 Collins St', 'Melbourne VIC 3000', 'Australia']",-37.813518688310246,144.97345901690232,3000,VIC,Market Lane Coffee
+"['25 Wills St', 'Melbourne VIC 3000', 'Australia']",-37.81070534953176,144.95707481619982,3000,VIC,Operator25
+"['650 Little Bourke St', 'Melbourne VIC 3004', 'Australia']",-37.81599506329736,144.953028561221,3004,VIC,Higher Ground
+"['71 Bouverie Street', 'Carlton VIC 3053', 'Australia']",-37.80472886414269,144.96192701562697,3053,VIC,Humble Rays
+"['G01, 35 Albert Road', 'Melbourne VIC 3004', 'Australia']",-37.834504818375116,144.971561652877,3004,VIC,Crux & Co
+"['594 Queensberry St.', 'North Melbourne VIC 3051', 'Australia']",-37.80277320561907,144.947505340276,3051,VIC,Twenty & Six Espresso
+"['100 Leicester St (btwn Queensberry & Pelham St)', 'Carlton VIC 3053', 'Australia']",-37.80365213333662,144.96041832839347,3053,VIC,Stovetop
+"['116 Russell St (at Little Collins St)', 'Melbourne VIC 3000', 'Australia']",-37.813682784747634,144.9686114450431,3000,VIC,Postal Hall
+"['172 Oxford St (at Stanley St)', 'Melbourne VIC 3066', 'Australia']",-37.80226473204674,144.9850389723633,3066,VIC,Proud Mary
+"['21 Leveson St. (Raglan St.)', 'North Melbourne VIC 3051', 'Australia']",-37.804495673534575,144.9506835768901,3051,VIC,Di Bella Roasting Warehouse
+"['117 Howard St', 'Melbourne VIC 3051', 'Australia']",-37.8041852990016,144.95392728007783,3051,VIC,Code Black Coffee
+"['108 Bank street', 'VIC 3205', 'Australia']",-37.83276720145441,144.96524077753347,3205,Victoria,Aucuba Coffee
+"['33 Peel St. (at Cambridge St.)', 'Collingwood VIC 3066', 'Australia']",-37.805361677914895,144.98561012658038,3066,VIC,Mina-no-ie
+"['189 Gertrude St', 'Fitzroy VIC 3065', 'Australia']",-37.806043,144.980926,3065,VIC,Archie's All Day
+"['62 Rose St (Fitzroy St)', 'Melbourne VIC 3065', 'Australia']",-37.79607230155614,144.97766925571617,3065,VIC,Industry Beans
+"['103-107 Errol St (Queensberry St)', 'North Melbourne VIC 3051', 'Australia']",-37.80250658500268,144.94956020053024,3051,VIC,Auction Rooms
+"['60 Nicholson St', 'Abbotsford VIC 3067', 'Australia']",-37.8073178966101,144.99660278995051,3067,VIC,Three Bags Full
+"['262 Lonsdale St', 'Melbourne VIC 3000', 'Australia']",-37.81161332468605,144.96451434981682,3000,VIC,Lt. NIC
+"['157 Brunswick St', 'Fitzroy VIC 3065', 'Australia']",-37.80284376549787,144.97772485321644,3065,VIC,Slowpoke
+['Australia'],-37.83436622996384,144.96154185918542,,,Wynyard
+"['M Shed Queen Victoria Market (Peel St)', 'Melbourne VIC 3000', 'Australia']",-37.807837216035225,144.9560125935112,3000,VIC,Padre Coffee
+"['269 Coventry St.', 'South Melbourne VIC 3205', 'Australia']",-37.832377,144.958717,3205,VIC,Giddiup
+"['240 Johnston St (Gore St)', 'Melbourne VIC 3065', 'Australia']",-37.7988788992139,144.9831505982681,3065,VIC,Addict
+"['33 Johnston Street, Collingwood (next to 99 Problems)', 'Melbourne VIC 3066', 'Australia']",-37.79915261902134,144.98595479055317,3066,VIC,Everyday Coffee
+"['323 Lennox St', 'Melbourne VIC 3121', 'Australia']",-37.824635519995745,144.99352382740415,3121,VIC,Cheerio
+"['276 Brunswick St (Victoria St)', 'Fitzroy VIC 3065', 'Australia']",-37.79898489528233,144.97838154481335,3065,VIC,Stagger Lee's
+"['66 Cromwell Street', 'Melbourne VIC 3066', 'Australia']",-37.806427747890865,144.99013469051405,3066,VIC,STREAT
+"['60 Pelham St (Lygon St)', 'Carlton VIC 3053', 'Australia']",-37.80275,144.96729,3053,VIC,Assembly Coffee & Tea
+"['73 Wellington Parade', 'East Melbourne VIC 3002', 'Australia']",-37.816612368659875,144.98754886883714,3002,VIC,Hard Pressed
+"['673 Bourke St', 'Melbourne VIC 3000', 'Australia']",-37.81699648251674,144.95383617940652,3000,VIC,Kinfolk
+"['Slater St (St Kilda Rd)', 'Melbourne VIC', 'Australia']",-37.83900410635073,144.97672510415072,,VIC,Slater St. Bench
+"['422 George St', 'Fitzroy VIC 3065', 'Australia']",-37.79677355231998,144.98233373680765,3065,VIC,Min Lokal
+"['658 Church Street', 'Richmond VIC 3121', 'Australia']",-37.832724,144.996456,3121,VIC,Top Paddock Cafe
+"['109 -111 Therry St', 'Melbourne VIC 3000', 'Australia']",-37.80736677605291,144.95915525013692,3000,VIC,Market Lane Coffee
+"['688 Queensberry St', 'Melbourne VIC 3051', 'Australia']",-37.802407302568106,144.94445927005128,3051,VIC,Beatrix
+"['252 Brunswick St. (at Greeves St.)', 'Fitzroy VIC 3065', 'Australia']",-37.799891842405174,144.97825580043894,3065,VIC,The Black Cat
+"['12 Campbell Arcade (Below Degraves St.)', 'Melbourne VIC 3000', 'Australia']",-37.81693,144.965726,3000,VIC,Cup Of Truth
+"['330 Cardigan St. (Elgin St.)', 'Melbourne VIC 3053', 'Australia']",-37.79701351485382,144.9662078993364,3053,VIC,Le Miel et la lune
+"['106-108 Chestnut St', 'Cremorne VIC 3121', 'Australia']",-37.82966216391791,144.99506188410203,3121,VIC,Denis the Menace
+"['200 Wellington Street', 'Melbourne VIC', 'Australia']",-37.80274018616933,144.98671238224492,,VIC,Aunty Peg's
+"['15 Little Collins St (at Windsor Pl)', 'Melbourne VIC 3000', 'Australia']",-37.81251124350339,144.97301883810763,3000,VIC,Little Bean Blue
+"['190 Park Street', 'South Melbourne VIC 3205', 'Australia']",-37.834579,144.963188,3205,VIC,Kuu Japanese Kitchen
+"['University of Melbourne', 'Parkville VIC', 'Australia']",-37.79905216385439,144.96035697797498,,VIC,Carte Crêpes
+"['50 Albert Road', 'Melbourne VIC 3205', 'Australia']",-37.833992,144.971451,3205,VIC,The Kettle Black
+"['250 Flinders Lane', 'Melbourne VIC 3000', 'Australia']",-37.81674960702832,144.9658577652139,3000,VIC,Brunetti
+"['60 Commercial Rd', 'Prahran VIC 3181', 'Australia']",-37.84622,144.98813,3181,VIC,Tall Timber
+"['358 Brunswick St', 'Fitzroy VIC 3065', 'Australia']",-37.796546202117995,144.97879038546418,3065,VIC,Babka Bakery Cafe
+"['150 Errol Street', 'North Melbourne VIC 3051', 'Australia']",-37.80148101490129,144.94995434002573,3051,VIC,Mörk Chocolate Brew House
+"['St Heliers St', 'Abbotsford VIC 3067', 'Australia']",-37.802939904473746,145.005706455663,3067,VIC,The Farm Cafe
+"['720 Bourke St', 'Docklands VIC 3008', 'Australia']",-37.81772481092328,144.949839589657,3008,VIC,tukk & co
+"['12 Claremont St', 'Melbourne VIC 3141', 'Australia']",-37.83796892115678,144.9937125986859,3141,VIC,Two Birds One Stone
+"['Stall 33, 322 Coventry St (at South Melbourne Market)', 'South Melbourne VIC 3205', 'Australia']",-37.83256478721898,144.95622038841248,3205,VIC,Padre Coffee
+"['570 Queensberry Street (Curzon Street)', 'North Melbourne VIC 3051', 'Australia']",-37.802821835125606,144.94829861035524,3051,VIC,The French Quarter
+"['Shop 13, Midtown Plaza (246 Bourke St.)', 'Melbourne VIC 3000', 'Australia']",-37.81334194949614,144.9657328117803,3000,VIC,Mister Close
+"['111 Dundas Place', 'Albert Park VIC 3206', 'Australia']",-37.841125250244474,144.9545944660306,3206,VIC,Dundas & Faussett
+"['541 Church St (at Willis St)', 'Richmond VIC 3121', 'Australia']",-37.82965639125502,144.99734148786146,3121,VIC,Pillar of Salt
+"['28 Niagara Ln', 'Melbourne VIC 3000', 'Australia']",-37.81290999696753,144.96136607521245,3000,VIC,Sun Moth Canteen & Bar
+"['89A Swan St (Carroll St)', 'Richmond VIC 3121', 'Australia']",-37.82519746551226,144.99391088616315,3121,VIC,Cheeky Monkey
+"['511 Spencer St', 'West Melbourne VIC 3006', 'Australia']",-37.808587184596796,144.94870502014578,3006,VIC,Junie Moon's
+"['194 Wells St', 'South Melbourne VIC 3205', 'Australia']",-37.83201658960238,144.9698447678355,3205,VIC,Bean Seen There
+"['80 Rupert St', 'Collingwood VIC 3066', 'Australia']",-37.80650695395395,144.98926277261077,3066,VIC,Allpress Melbourne Roastery Cafe
+"['274 Barkly St (Sydney Rd)', 'Brunswick VIC 3056', 'Australia']",-37.776137978900934,144.96106327201295,3056,VIC,Wide Open Road
+"['380 Lygon St', 'Carlton VIC 3053', 'Australia']",-37.798105354150536,144.96782697931576,3053,VIC,Brunetti
+"['169 Chapel St. (btwn High & St. John)', 'Melbourne VIC 3181', 'Australia']",-37.852185020263825,144.99330640835277,3181,VIC,Journeyman
+"['348 Drummond Street', 'Melbourne VIC 3053', 'Australia']",-37.797687720891474,144.9689620150097,3053,VIC,Vincent The Dog
+"['33 Chapel St (btwn Maddock & Peel St)', 'Melbourne VIC 3181', 'Australia']",-37.85606392288103,144.99245032668114,3181,VIC,School of 7 Bells
+"['The Wheeler Centre (176 Little Lonsdale St)', 'Melbourne VIC 3000', 'Australia']",-37.81029048244798,144.96512775509999,3000,VIC,The Moat Bar & Cafe
+"['97 Errol St', 'Melbourne VIC 3051', 'Australia']",-37.80260626160473,144.94957471419664,3051,VIC,Fandango
+"['30 Sackville Street', 'Melbourne VIC 3066', 'Australia']",-37.79826682189606,144.98564695428811,3066,VIC,Acoffee
+"['486 Queens Pde (Hoddle St)', 'Clifton Hill VIC 3068', 'Australia']",-37.785467,144.994475,3068,VIC,Mixed Business
+"['Stall S13, 322 Coventry St (at South Melbourne Market)', 'South Melbourne VIC 3205', 'Australia']",-37.83278526870756,144.9561367991214,3205,VIC,Proper & Son
+"['Shop B17, 385 Bourke St (Elizabeth St)', 'Melbourne VIC 3000', 'Australia']",-37.81449820627968,144.96268119850978,3000,VIC,Oli & Levi
+"['309 Exhibition St (Near La Trobe St)', 'Melbourne VIC 3000', 'Australia']",-37.80873208916029,144.9690277338315,3000,VIC,65 Degrees Cafe
+"['Bourke Street', 'Docklands VIC 3008', 'Australia']",-37.819921547087255,144.94543651886323,3008,VIC,Cafe Bambino
+"['472 Bridge Rd', 'Richmond VIC 3121', 'Australia']",-37.81946632554757,145.0074061694816,3121,VIC,Reunion & Co
+"['Stall 89, 116-136 Cecil St (at South Melbourne Market)', 'Melbourne VIC 3205', 'Australia']",-37.83229362816733,144.95715379714966,3205,VIC,Clement Coffee Roasters
+"['28 Grosvesnor St', 'Abbotsford VIC 3067', 'Australia']",-37.80906183333469,145.00668864075917,3067,VIC,The Abbotsford Club
+"['8 Raffa Place Carlton (Cochrane Pl)', 'Melbourne VIC 3053', 'Australia']",-37.79764825840715,144.96836521568414,3053,VIC,The Vertue of the Coffee Drink
